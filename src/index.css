@@ -13,24 +13,25 @@
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    /* Морская тема - основные цвета */
+    --primary: 213 94% 68%; /* Голубой цвет неба #4682B4 */
+    --primary-foreground: 0 0% 100%;
 
-    --secondary: 210 40% 96.1%;
+    --secondary: 197 71% 73%; /* Небесно-голубой #87CEEB */
     --secondary-foreground: 222.2 47.4% 11.2%;
 
-    --muted: 210 40% 96.1%;
+    --muted: 197 71% 95%; /* Светло-голубой для фона */
     --muted-foreground: 215.4 16.3% 46.9%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 213 94% 68%; /* Акцентный цвет - тот же голубой */
+    --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --border: 197 71% 85%; /* Голубоватые границы */
+    --input: 197 71% 85%;
+    --ring: 213 94% 68%;
 
     --radius: 0.5rem;
 
